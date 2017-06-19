@@ -1,7 +1,9 @@
 import React from 'react';
 import DogSection from './DogSection';
 import CatSection from './CatSection';
-const AnimalsSection = props => {
+
+const App = props => {
+  debugger;
   return(
     <div>
       <DogSection
@@ -14,4 +16,4 @@ const AnimalsSection = props => {
   )
 }
 
-export default AnimalsSection;
+export default App;
