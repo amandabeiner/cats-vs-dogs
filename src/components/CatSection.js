@@ -11,7 +11,8 @@ const CatSection = props => {
     )
   })
   return(
-    <div>
+    <div className="row">
+      <h3>Cats</h3>
       {cats}
     </div>
   )

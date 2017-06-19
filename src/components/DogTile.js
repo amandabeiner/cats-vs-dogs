@@ -2,9 +2,10 @@ import React from 'react';
 
 const DogTile = props => {
   return(
-    <div>
-      <h2>{props.dog.name}</h2>
-      <h4>{props.dog.breed}</h4>
+    <div className="columns small-4">
+      <h4>{props.dog.name}</h4>
+      <p>breed: {props.dog.breed}</p>
+      <p>human: {props.dog.human}</p>
       <img src={`${props.dog.image}`} />
     </div>
   )

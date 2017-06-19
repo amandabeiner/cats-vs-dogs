@@ -2,9 +2,10 @@ import React from 'react';
 
 const CatTile = props => {
   return(
-    <div>
-      <h2>{props.cat.name}</h2>
-      <h4>{props.cat.breed}</h4>
+    <div className="columns small-4">
+      <h4>{props.cat.name}</h4>
+      <p>personality: {props.cat.personality}</p>
+      <p>human: {props.cat.human}</p>
       <img src={`${props.cat.image}`} />
     </div>
   )
