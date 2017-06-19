@@ -3,7 +3,6 @@ import DogSection from './DogSection';
 import CatSection from './CatSection';
 
 const App = props => {
-  debugger;
   return(
     <div>
       <DogSection

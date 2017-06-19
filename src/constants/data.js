@@ -24,6 +24,12 @@ const animals = {
         breed: "french bulldog",
         name: "Winnie",
         image: "http://cdn2-www.dogtime.com/assets/uploads/gallery/french-bulldog-dog-breed-pictures/2-whitelaying.jpg"
+      },
+      {
+        id: 5,
+        breed: "yellow lab",
+        name: "Maizie",
+        image: "http://cdn.wallpapersafari.com/3/30/30jJlk.jpg"
       }
     ],
   cats:
@@ -36,24 +42,24 @@ const animals = {
       },
       {
         id: 6,
-        personality: "wants attention. all of it. always.",
-        name: "Rickon",
-        image: "http://animalia-life.club/data_images/russian-blue/russian-blue9.jpg"
-      },
-      {
-        id: 6,
-        personality: "extra chill",
-        name: "Roxy",
-        image: "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17332841_1757115771270001_6200793196046319616_n.jpg"
+        personality: "likes warming his rear on technology",
+        name: "Bingo",
+        image: "http://i.imgur.com/ntz2sQe.jpg"
       },
       {
         id: 7,
+        personality: "likes mobile tech",
+        name: "Storrow",
+        image: "http://i.imgur.com/oSr7eBY.jpg"
+      },
+      {
+        id: 8,
         personality: "very friendly, dumb as a box of hammers",
         name: "Bushi-cat",
         image: "https://slack-imgs.com/?c=1&url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe35%2F13248922_1765872560308892_2012104964_n.jpg"
       },
       {
-        id: 8,
+        id: 9,
         personality: "skittish, diabetic, perpetually put-upon",
         name: "Geisha",
         image: "https://files.slack.com/files-tmb/T02JFJTNQ-F4S830Q03-333fdd6a66/kitteh_720.png"
