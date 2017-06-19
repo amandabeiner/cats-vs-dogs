@@ -33,7 +33,7 @@ const animals = {
         id: 5,
         breed: "yellow lab",
         name: "Maizie",
-        image: "http://cdn.wallpapersafari.com/3/30/30jJlk.jpg",
+        image: "https://files.slack.com/files-tmb/T02JFJTNQ-F5W1A0A1J-a64927c564/img_20170617_102934_001_01_1024.jpg",
         human: "Justin"
       }
     ],
